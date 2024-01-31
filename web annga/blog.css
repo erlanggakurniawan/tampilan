@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-align: center;
+  }
+
+  header {
+    background-color: #6060ff;
+    color: #fff;
+    padding: 20px;
+    text-align: left;
+    font-size: 25px;
+  }
+
+  header ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 0;
+  }
+
+  header li {
+    margin-left: 20px;
+  }
+
+  header a {
+    text-decoration: none;
+    color: #fff;
+  }
